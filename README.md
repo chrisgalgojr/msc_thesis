@@ -1,1 +1,1 @@
-This is a repository for my MSc Thesis Files
+This repository contains files of my MSc thesis. 
